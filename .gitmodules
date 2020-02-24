@@ -1,0 +1,3 @@
+[submodule "dmc_2019_submodule"]
+	path = dmc_2019_submodule
+	url = https://github.com/wieczszy/dmc_2019
